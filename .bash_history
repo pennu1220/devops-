@@ -40,3 +40,33 @@ git add praveen
 git commit -m "first commit had done" praveen
 git log
 git status
+ll
+ls -al
+ll
+ls -al
+git add praveen
+ls -al
+git status
+git restore praveen
+git status
+ls -al
+git log
+touch pennu2
+ls -al
+git add .
+git commit -m " second commit had done" .
+git status
+git log
+git remote add origin https://github.com/pennu1220/devops-.git
+git branch
+git push -u origin master
+ls -al
+git status
+git log
+ll
+cat pennu2
+cat praveen
+vim pennu2
+ls -al
+cat pennu2
+vim pennu2
