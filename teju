@@ -1,0 +1,8 @@
+
+
+to push a file in to the github command will be git remote add origin (url)
+git push -u origin branchname
+
+git remote add origin (url)
+git push -u origin branchname
+
